@@ -17,3 +17,9 @@ Spark
 SQL
 
 Map-Reduce
+
+### ML Concepts
+
+Linear Regression
+
+Decision Trees
